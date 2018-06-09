@@ -1,4 +1,4 @@
-# Game Behaviour Project
+# MonoGame – Game Behaviour
 I have used MonoGame because I needed a clean game engine. I was not allowed to use any other physics or AI libraries than my own. It was a great experience that taught me about making games inside out. Project features:
   
  * A* pathfinding algorithm
